@@ -1,2 +1,1 @@
-# help
-For Team Discussions
+# For Team Discussions
